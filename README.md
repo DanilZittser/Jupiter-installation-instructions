@@ -1,4 +1,4 @@
-# Jupiter installation instructions
+# Jupyter installation instructions
 Hi, this is a guide on how to **correct** install Jupiter on your computer. This guide is for Ubuntu users.
 
 Main advantages of this method installation:
